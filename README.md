@@ -1,5 +1,7 @@
 # mobile
 
+[![Join the chat at https://gitter.im/football-system/mobile](https://badges.gitter.im/football-system/mobile.svg)](https://gitter.im/football-system/mobile?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A new Flutter project.
 
 ## Getting Started
